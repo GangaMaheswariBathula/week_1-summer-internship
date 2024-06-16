@@ -1,0 +1,53 @@
+<html>
+    <head>
+        <title>working on input forms</title>
+    </head>
+
+    <body >
+        <center>
+        <form>
+            <label>First Name : </label>
+        <input type="text" placeholder="enter ur first name...."><br><br>
+        <label>Last Name : </label>
+        <input type="text" placeholder="enter ur last name...."><br><br>
+        <label> Age : </label>
+        <input type="number" placeholder="enter ur age...."><br><br>
+        <label>Gender: </label>
+        <input type="radio" name="gender">
+        <label>Male</label><br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <input type="radio" name="gender">
+        <label>Female</label>
+        <br><br>
+        <label>skills :</label>
+        <input type="checkbox">
+        <label>C</label><br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <input type="checkbox" >
+        <label>JAVA</label><br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <input type="checkbox">
+        <label>PYTHON</label><br><br>
+        <label>Mobile No: </label>
+        <input type="number" placeholder="enter ur mobile no...."><br><br>
+        <label>DOB : </label>
+        <input type="date" placeholder="enter ur date of birth...."><br><br>
+        <label>Address:</label>
+        <textarea>enter something......</textarea><br><br>
+        <label>Email : </label>
+        <input type="email" placeholder="enter ur email...."><br><br>
+        <label>college:</label>
+        <select>
+            <option>AEC</option>
+            <option>ACET</option>
+            <option>ACOE</option>
+        </select><br><br>
+        <label>profile : </label>
+        <input type="file" placeholder="choose file...."><br><br>
+        <button>submit</button>
+        <button type="reset">reset</button>
+        </form><br><br>
+       
+    </center>
+    </body>
+</html>

@@ -1,0 +1,32 @@
+<html>
+    <head>
+        <title>Task_I</title>
+    </head>
+    <body>
+        <h1>unordered lists of heros names</h1>
+        <ul type="sqaure">
+            <li>Pawan Kalyan</li>
+            <li>Ram Charan</li>
+            <li>Ajith</li>
+        </ul>
+        <h1>ordered lists of heroines names</h1>
+        <ol>
+            <li>Kajal</li>
+            <li>Pooja</li>
+            <li>Sai Palavi</li>
+
+        </ol>
+        <h1>unordered lists of heros images</h1>
+        <ul>
+            <li><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6PxzXpflBtN6cTevDuwOnY4tNJ5_6srNE3w&s" height="200px" width="200px"></li>
+            <li><img src="C:\Users\GOD\Downloads\RAM CHARAN FAN RCF.jpeg" height="200px" width="200px"></li>
+            <li><img src="C:\Users\GOD\Downloads\THUNIVU _AJITH.jpeg" height="200px" width="200px"></li>
+        </ul>
+        <h1>ordered lists of heroines images</h1>
+        <ol>
+            <li><img src="C:\Users\GOD\Downloads\Kajal Aggarwal Latest Hd Images.jpeg" height="200px" width="200px"></li>
+            <li><img src="C:\Users\GOD\Downloads\pooja hedge.jpeg" height="200px" width="200px"></li>
+            <li><img src="C:\Users\GOD\Downloads\Sai Pallavi.jpeg" height="200px" width="200px"></li>
+        </ol>
+    </body>
+</html>
