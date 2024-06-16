@@ -1,0 +1,77 @@
+.square{
+    border: 2px solid black;
+    width: 800px;
+    height: 800px;
+    background-color: white;
+    margin-top: 150px;
+}
+.circle{
+    border: 2px solid black;
+    width: 700px;
+    height: 700px;
+    border-radius: 500px;
+   margin-top: 50px;
+   background-color: rgb(231, 198, 148);
+}
+.upperpart{
+    width: 350px;
+    height: 350px;
+    display: flex;
+    flex-direction: row;
+    margin-left: 15%;
+    margin-bottom: 10%;
+   
+}
+.lowerpart{
+    width: 350px;
+    height: 350px;
+}
+.mouth{
+    width: 200px;
+    height: 100px;
+    border: 2px solid black;
+    background-color: white;
+    margin-top: 30px;
+}
+
+body{
+    background-color: black;
+}
+.eyeleft{
+    border: 2px solid black;
+    width: 125px;
+    height: 125px;
+    border-top-right-radius:40% ;
+    border-bottom-left-radius:40% ;
+    float: left;
+    margin-top: 70%;
+    
+    background-color: white;
+}
+.eyeright{
+    border: 2px solid black;
+    width: 125px;
+    height: 125px;
+    border-top-left-radius:40% ;
+    border-bottom-right-radius:40% ;
+    float: right;
+    background-color: white;
+    margin-top: 70%;
+    
+}
+.round1{
+    border: 2px solid black;
+    width: 70px;
+    height: 70px;
+    border-radius: 50px;
+    background-color: black;
+    margin: 20%;
+}
+.round2{
+    border: 2px solid black;
+    width: 70px;
+    height: 70px;
+    border-radius: 50px;
+    background-color: black;
+    margin: 20%;
+}

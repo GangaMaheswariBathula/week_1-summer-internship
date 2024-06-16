@@ -1,0 +1,27 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="C:\Users\GOD\Desktop\webpages\border_r_task.css">
+    </head>
+    <body>
+        <center>
+            <div class="square">
+                <center><div class="circle">
+                    <div class="upperpart">
+                        <div class="eyeleft">
+                            <div class="round1"></div>
+                        </div>
+                        <div class="eyeright">
+                            <div class="round2"></div>
+                        </div>
+                    </div>
+                    <div class="lowerpart">
+                        <div class="mouth"></div>
+                    </div>
+                </div></center>
+            </div>
+    
+        </center>
+
+        
+    </body>
+</html>
